@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thisismearavind
+- 👋 Hi, I’m @thisismeInfiniteSoul
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning in html,css,js,php,python,sql.
 - 💞️ I’m looking to collaborate on international companies
